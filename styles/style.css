@@ -103,7 +103,7 @@ body {
     background-color: rgba(13, 19, 33, 0.02);
     margin-top: 80px;
 
-    border: 2px solid mediumseagreen;
+    /* border: 2px solid mediumseagreen; */
 }
 
 .why-web-development-title {
@@ -116,6 +116,8 @@ body {
     max-width: 850px;
     display: flex;
     gap: 100px;
+    padding: 48px;
+    /* border: 1px solid mediumseagreen; */
 }
 
 .sub-section-text-container {
