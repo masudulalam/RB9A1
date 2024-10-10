@@ -102,6 +102,7 @@ body {
     border-radius: 16px;
     background-color: rgba(13, 19, 33, 0.02);
     margin-top: 80px;
+    padding: 80px 0;
 
     /* border: 2px solid mediumseagreen; */
 }
