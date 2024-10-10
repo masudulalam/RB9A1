@@ -104,6 +104,7 @@ body {
     width: 244px;
     height: 65px;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 
 /* why web development section styles */
@@ -227,6 +228,7 @@ body {
     font-size: 20px;
     font-weight: 600;
     line-height: 23px;
+    cursor: pointer;
 }
 
 /* Footer Styles */
