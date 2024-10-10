@@ -39,6 +39,7 @@ body {
     padding: 12px 20px 12px 20px;
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
+    margin-top: 32px;
 }
 
 .mt-24 {
@@ -111,4 +112,5 @@ body {
 
 .sub-section-text-container {
     max-width: 477px;
+    margin-bottom: 32px;
 }
